@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atuwatseiii/static/css/main.e6c13ad2.css",
+    "main.js": "/atuwatseiii/static/js/main.5b9a962f.js",
+    "index.html": "/atuwatseiii/index.html",
+    "main.e6c13ad2.css.map": "/atuwatseiii/static/css/main.e6c13ad2.css.map",
+    "main.5b9a962f.js.map": "/atuwatseiii/static/js/main.5b9a962f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b9a962f.js"
+  ]
+}
